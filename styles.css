@@ -43,6 +43,10 @@ body {
   height: 280px;
 }
 
+.resume_top {
+  padding-top: 2rem;
+}
+
 .resume .resume_left .resume_profile img {
   width: 100%;
   height: 100%;
